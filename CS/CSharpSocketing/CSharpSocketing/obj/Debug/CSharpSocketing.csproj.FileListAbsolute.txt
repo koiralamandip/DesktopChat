@@ -1,0 +1,9 @@
+D:\College\Assignments\NO_WEB_SERVER_ASSIGNMENT\Year2\Term I\Modern Network\Project\CS\CSharpSocketing\CSharpSocketing\bin\Debug\CSharpSocketing.exe.config
+D:\College\Assignments\NO_WEB_SERVER_ASSIGNMENT\Year2\Term I\Modern Network\Project\CS\CSharpSocketing\CSharpSocketing\bin\Debug\CSharpSocketing.exe
+D:\College\Assignments\NO_WEB_SERVER_ASSIGNMENT\Year2\Term I\Modern Network\Project\CS\CSharpSocketing\CSharpSocketing\bin\Debug\CSharpSocketing.pdb
+D:\College\Assignments\NO_WEB_SERVER_ASSIGNMENT\Year2\Term I\Modern Network\Project\CS\CSharpSocketing\CSharpSocketing\obj\Debug\CSharpSocketing.csprojResolveAssemblyReference.cache
+D:\College\Assignments\NO_WEB_SERVER_ASSIGNMENT\Year2\Term I\Modern Network\Project\CS\CSharpSocketing\CSharpSocketing\obj\Debug\CSharpSocketing.Form1.resources
+D:\College\Assignments\NO_WEB_SERVER_ASSIGNMENT\Year2\Term I\Modern Network\Project\CS\CSharpSocketing\CSharpSocketing\obj\Debug\CSharpSocketing.Properties.Resources.resources
+D:\College\Assignments\NO_WEB_SERVER_ASSIGNMENT\Year2\Term I\Modern Network\Project\CS\CSharpSocketing\CSharpSocketing\obj\Debug\CSharpSocketing.csproj.GenerateResource.Cache
+D:\College\Assignments\NO_WEB_SERVER_ASSIGNMENT\Year2\Term I\Modern Network\Project\CS\CSharpSocketing\CSharpSocketing\obj\Debug\CSharpSocketing.exe
+D:\College\Assignments\NO_WEB_SERVER_ASSIGNMENT\Year2\Term I\Modern Network\Project\CS\CSharpSocketing\CSharpSocketing\obj\Debug\CSharpSocketing.pdb
